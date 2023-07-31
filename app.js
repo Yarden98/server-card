@@ -86,20 +86,20 @@ const cards = [
 const users = [
   {
     name: {
-      first: "Tzach",
+      first: "Yarden",
       middle: "",
-      last: "Dabush",
+      last: "Naim",
     },
     phone: "055-5555555",
     email: "admin@admin.com",
     password: "Abc123!",
     address: {
-      state: "Haifa",
+      state: "BeerSheva",
       country: "Israel",
-      city: "Haifa",
-      street: "HaNasi",
+      city: "BeerSheva",
+      street: "TheNegevBrigade",
       zip: 123456,
-      houseNumber: 12,
+      houseNumber: 26,
     },
     image: {
       url: "www.example.com",
@@ -111,9 +111,9 @@ const users = [
   },
   {
     name: {
-      first: "Tzach1",
+      first: "Tzach",
       middle: "",
-      last: "Dabush1",
+      last: "Dabush",
     },
     phone: "055-5555555",
     email: "admin1@admin.com",
