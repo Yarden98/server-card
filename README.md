@@ -1,9 +1,23 @@
-Explanations for HackerU projects:
+### Running the Server
 
-To start the server, navigate to the server folder and type the following command into the terminal: npm i
+Before using the Business Cards Website, you also need to run the server application.
 
-Then, to connect to the server, type the following command into the terminal: node app
+1. Navigate to the server folder using the terminal or command prompt.
 
-To run the website, navigate to the cards-app folder and enter the following command in the terminal: npm i
+   ```
+   cd server
+   ```
 
-And after the installation is complete... To upload the website, type the following command into the terminal: npm start
+2. Install the required npm packages for the server by running the following command:
+
+   ```
+   npm install
+   ```
+
+3. Start the server by running:
+
+   ```
+   npm start
+   ```
+
+The server will be up and running, enabling the website to communicate with the server for user authentication and business card management.
